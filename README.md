@@ -41,3 +41,7 @@ Your main goals in this project are:
 Congratulations on completing the QR Code Component project! By finishing this project, you've gained hands-on experience with HTML and CSS. You've created a simple but visually appealing component that displays a QR code. As you continue your web development journey, you can build upon this project by exploring more advanced concepts like responsive design, JavaScript interactivity, and integrating APIs.
 
 Remember, practice makes perfect, so keep coding and learning!
+
+## Links
+Live Site URL: https://gmuhaideb-qr-code-component.netlify.app
+
