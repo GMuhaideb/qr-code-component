@@ -42,6 +42,6 @@ Congratulations on completing the QR Code Component project! By finishing this p
 
 Remember, practice makes perfect, so keep coding and learning!
 
-## Links
+## Link
 Live Site URL: https://gmuhaideb-qr-code-component.netlify.app
 
