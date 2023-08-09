@@ -1,6 +1,6 @@
 # QR Code Component
 
-Welcome to the QR Code Component project! This is an excellent opportunity for beginners who are new to HTML and CSS. If you're just starting out and want to dip your toes into web development, you've come to the right place. In this project, you'll be creating a simple QR code component with a fixed card layout. This means you won't have to worry about responsive design for now.
+Welcome to the QR Code Component project! This is an excellent opportunity for beginners who are new to HTML and CSS. If you're just starting out and want to dip your toes into web development, you've come to the right place. In this project, you'll be creating a simple QR code component with a fixed card layout. 
 
 ## Project Overview
 
